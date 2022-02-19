@@ -6,6 +6,8 @@ Propublica realiza un [análisis](https://www.propublica.org/article/machine-bia
 
 Los [resultados](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) demuestran que los acusados de raza negra tenían muchas más probabilidades que los acusados caucásicos de ser juzgados incorrectamente con un mayor riesgo de reincidencia, mientras que los acusados blancos tenían más probabilidades que los acusados de raza negra de ser marcados incorrectamente como de bajo riesgo.
 
+El conjunto de datos está disponible en [Github](https://github.com/propublica/compas-analysis) y en [Kaggle](https://www.kaggle.com/danofer/compass).
+
 ## Librerías usadas
 
 * Numpy
