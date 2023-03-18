@@ -1,6 +1,6 @@
 # MCD-Etica
 
-COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) es una herramienta de Northpoint, que evalúa la probabilidad de que un acusado de un delito se convierta en reincidente.
+COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) es una herramienta de Northpointe, Inc., que evalúa la probabilidad de que un acusado de un delito se convierta en reincidente.
 
 Propublica realiza un [análisis](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) en el que se propone a descubrir la precisión subyacente de su algoritmo de reincidencia y probar si el algoritmo estaba sesgado contra ciertos grupos. 
 
