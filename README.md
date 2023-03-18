@@ -4,7 +4,7 @@ COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) es
 
 Propublica realiza un [análisis](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) en el que se propone a descubrir la precisión subyacente de su algoritmo de reincidencia y probar si el algoritmo estaba sesgado contra ciertos grupos. 
 
-Los [resultados](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) demuestran que los acusados de raza negra tenían muchas más probabilidades que los acusados caucásicos de ser juzgados incorrectamente con un mayor riesgo de reincidencia, mientras que los acusados blancos tenían más probabilidades que los acusados de raza negra de ser marcados incorrectamente como de bajo riesgo.
+Los [resultados](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) demuestran que los acusados de raza negra tenían muchas más probabilidades que los acusados caucásicos de ser juzgados incorrectamente con un mayor riesgo de reincidencia, mientras que los acusados caucásicos tenían más probabilidades que los acusados de raza negra de ser marcados incorrectamente como de bajo riesgo.
 
 El conjunto de datos está disponible en [Github](https://github.com/propublica/compas-analysis) y en [Kaggle](https://www.kaggle.com/danofer/compass).
 
